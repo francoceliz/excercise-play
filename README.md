@@ -1,3 +1,0 @@
-# EJERCITACION GRUPAL
-
-Carlos Guillen
