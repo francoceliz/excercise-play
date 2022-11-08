@@ -1,0 +1,15 @@
+body {
+    margin: 40px;
+    background: #556270;
+    font: 18px/27px 'Oxygen', sans-serif;
+    color: white;
+}
+
+button {
+    background-color: white;
+    border: 6px solid rgb(2, 141, 99);
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 20px;
+}
