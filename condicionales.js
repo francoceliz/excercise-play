@@ -7,7 +7,7 @@ if (sabado== "hoy no es feriado"){
     console.log("es false");
 }
 
-let lunes= "hoy se trabaja"
-if (lunes== "hoy se trabaja"){
+let marte= "hoy se trabaja"
+if (marte== "hoy se trabaja"){
     console.log("es true");
 }
