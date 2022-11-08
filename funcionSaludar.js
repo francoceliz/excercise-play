@@ -1,3 +1,3 @@
 function saluda()  {
-    alert("Hola")
+    alert("Hola gente de GitHub")
 }
