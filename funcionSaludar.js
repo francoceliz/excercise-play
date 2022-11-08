@@ -1,3 +1,3 @@
 function saludar(){
-    alert("Hola, mundo");
+    alert("Hola, mundo de GitHub");
 }
